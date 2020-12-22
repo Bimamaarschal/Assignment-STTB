@@ -5,10 +5,10 @@ using namespace std;
 
 void LuasPersegi() {
 		
-		int a;
+	int a;
     	float luas;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas Persegi" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -28,11 +28,11 @@ void LuasPersegi() {
 
 void LuasPersegiPanjang() {
 		
-		int a;
-		int b;
+	int a;
+	int b;
     	float luas;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas Persegi Panjang" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -54,11 +54,11 @@ void LuasPersegiPanjang() {
 
 void LuasSegitiga() {
 		
-		int a;
-		int b;
+	int a;
+	int b;
     	float luas;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas Segitiga" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -80,12 +80,12 @@ void LuasSegitiga() {
 
 void LuasLingkaran() {
 		
-		int a;
-		int b;
+	int a;
+	int b;
     	float luas;
     	const float phi=3.14;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas Lingkaran" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -105,11 +105,11 @@ void LuasLingkaran() {
 
 void LuasBelahKetupat() {
 		
-		int a;
-		int b;
+	int a;
+	int b;
     	float luas;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas Belah Ketupat" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -131,11 +131,11 @@ void LuasBelahKetupat() {
 
 void LuasLayangLayang() {
 		
-		int a;
-		int b;
+	int a;
+	int b;
     	float luas;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas Layang - Layang" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -157,12 +157,12 @@ void LuasLayangLayang() {
 
 void LuasTrapesium() {
 		
-		int a;
-		int b;
-		int c;
+	int a;
+	int b;
+	int c;
     	float luas;
     	
-  			cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas Trapesium" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -186,11 +186,11 @@ void LuasTrapesium() {
 
 void LuasVolumeKubus() {
 		
-		int a;
+	int a;
     	float luas;
     	float volume;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas & Volume Kubus" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -215,13 +215,13 @@ void LuasVolumeKubus() {
 
 void LuasVolumeBalok() {
 		
-		int a;
-		int b;
-		int c;
+	int a;
+	int b;
+	int c;
     	float luas;
     	float volume;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas & Volume Balok" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -250,14 +250,14 @@ void LuasVolumeBalok() {
 
 void LuasVolumePrisma() {
 		
-		int a;
-		int b;
-		int c;
-		int d;
+	int a;
+	int b;
+	int c;
+	int d;
     	float luas;
     	float volume;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas & Volume Prisma" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -288,13 +288,13 @@ void LuasVolumePrisma() {
 
 void LuasVolumeLimas() {
 		
-		int a;
-		int b;
-		int c;
+	int a;
+	int b;
+	int c;
     	float luas;
     	float volume;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas & Volume Limas S4" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -323,13 +323,13 @@ void LuasVolumeLimas() {
 
 void LuasVolumeTabung() {
 		
-		int a;
-		int b;
-		const float phi=3.14;
+	int a;
+	int b;
+	const float phi=3.14;
     	float luas;
     	float volume;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas & Volume Tabung" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -356,10 +356,10 @@ void LuasVolumeTabung() {
 
 void LuasVolumeKerucut() {
 		
-		int a;
-		int b;
-		int c;
-		const float phi=3.14;
+	int a;
+	int b;
+	int c;
+	const float phi=3.14;
     	float luas;
     	float volume;
     	
@@ -392,12 +392,12 @@ void LuasVolumeKerucut() {
 
 void LuasVolumeBola() {
 		
-		int a;
-		const float phi=3.14;
+	int a;
+	const float phi=3.14;
     	float luas;
     	float volume;
     	
-  		cout << endl;
+  	cout << endl;
     	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "Anda Memilih Fungsi Menghitung Luas & Volume Bola" << endl;
         cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
@@ -424,18 +424,18 @@ void LuasVolumeBola() {
 int main() {
 	
 		
-		double pilihan;
+	double pilihan;
 		
-  		cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
+  	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
         cout << "++++++++++++ Sekolah Tinggi Teknologi Bandung ++++++++++++++\n";
-		cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
-  		cout << "Program Mencari Luas & Volume Mengunakan Functions C++(Void)\n";
-  		cout << "+ Dibuat untuk melengkapi tugas Individu 21 Desember 2020  +\n";
-  		cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
-  		cout << "Nama    : Bima Maarschal Rizky Kurnia Fallah\n";
-  		cout << "NPM     : 20552011107\n";
-  		cout << "Kelas   : TIF RP 20-A\n";
-  		cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
+	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
+  	cout << "Program Mencari Luas & Volume Mengunakan Functions C++(Void)\n";
+  	cout << "+ Dibuat untuk melengkapi tugas Individu 21 Desember 2020  +\n";
+  	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
+  	cout << "Nama    : Bima Maarschal Rizky Kurnia Fallah\n";
+  	cout << "NPM     : 20552011107\n";
+  	cout << "Kelas   : TIF RP 20-A\n";
+  	cout << "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
   		
         cout << endl;
         cout << "----------------------------------------\n";
@@ -463,8 +463,8 @@ int main() {
         cout << "| 77 | Bola"<< endl;
         cout << endl;
         
-		cout << "Silahkan masukkan angka pilihan anda: ";
-		cin >> pilihan;
+	cout << "Silahkan masukkan angka pilihan anda: ";
+	cin >> pilihan;
         
         
         
